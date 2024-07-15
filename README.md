@@ -10,14 +10,7 @@ The resulting environment variables returned from `opam env` are then set into t
 PATH, which is copied over to the `exec-path` list. This is important to note since anything custom in the `exec-path`
 list that wasn't already in the current shell's path, will be lost.
 
-## Installation
-You can install the package from Melpa:
-
-M-x package-install RET opam-auto-env
-
-or by using `(use-package opam-auto-mode :ensure t)`.
-
-## Usage
+## Installation and Usage
 You can enable opam-auto-env below.
 
 If installing via `elpaca`:
