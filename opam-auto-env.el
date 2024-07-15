@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2024 Mitch Fisher <MrCairo@committed-code.com>
 ;; Version: 0.0.1
-;; Package-Requires: ((emacs "28+") (opam "2.0.1"))
+;; Package-Requires: ((emacs "28.1") (tuareg "3.0.1"))
 ;; URL: https://github.com/MrCairo/opam-auto-env
 ;; This file is not part of GNU Emacs.
 
